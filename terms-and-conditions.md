@@ -1,4 +1,4 @@
-# Terms and Conditions for Purulia MedExpress
+# Terms and Conditions for Purulia MediGo
 
 **Effective Date:** 02 January 2026  
 **Operating Hours:** 10:00 AM – 6:00 PM (Monday–Sunday)
@@ -8,7 +8,7 @@
 ## 1. Acceptance of Terms
 
 ### 1.1 Binding Agreement
-By downloading, installing, accessing, or using the Purulia MedExpress mobile application (“App”), website, or related services (“Services”), you (“User”, “Customer”, “You”) enter into a legally binding agreement with **Purulia MedExpress** (“Company”, “We”, “Us”, “Our”). If you do not agree, discontinue use immediately.
+By downloading, installing, accessing, or using the Purulia MediGo mobile application (“App”), website, or related services (“Services”), you (“User”, “Customer”, “You”) enter into a legally binding agreement with **Purulia MediGo** (“Company”, “We”, “Us”, “Our”). If you do not agree, discontinue use immediately.
 
 ### 1.2 Modification Right
 We reserve the right to modify these Terms at any time. Continued use after changes constitutes acceptance.
@@ -18,7 +18,7 @@ We reserve the right to modify these Terms at any time. Continued use after chan
 ## 2. Service Description & Nature
 
 ### 2.1 Platform Nature
-Purulia MedExpress operates as a **technology platform** facilitating connections between:
+Purulia MediGo operates as a **technology platform** facilitating connections between:
 - Customers and licensed pharmacies  
 - Customers and delivery partners  
 - Users and healthcare information (doctor profiles)  
@@ -173,7 +173,7 @@ Prescription medicines require a **valid original prescription** from a register
 
 ## 9. Intellectual Property
 
-All app content, design, trademarks, and code are owned by Purulia MedExpress. Limited, revocable license granted for personal use only.
+All app content, design, trademarks, and code are owned by Purulia MediGo. Limited, revocable license granted for personal use only.
 
 ---
 
@@ -213,7 +213,7 @@ Maximum liability limited to **₹1000 or last month’s payment**, whichever is
 
 ## 13. Indemnification
 
-You agree to indemnify and hold Purulia MedExpress harmless from all claims arising from misuse, violations, or legal non-compliance.
+You agree to indemnify and hold Purulia MediGo harmless from all claims arising from misuse, violations, or legal non-compliance.
 
 ---
 
@@ -276,4 +276,4 @@ Users acknowledge that:
 ---
 
 ### Acknowledgment
-By using Purulia MedExpress, you confirm that you have read, understood, and accepted these Terms and Conditions.
+By using Purulia MediGo, you confirm that you have read, understood, and accepted these Terms and Conditions.
