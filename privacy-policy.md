@@ -1,4 +1,4 @@
-# Privacy Policy for Purulia MediGo
+# Privacy Policy for Polash Care
 
 **Effective Date:** 02 January 2026  
 **Last Updated:** 02 January 2026  
@@ -7,9 +7,9 @@
 
 ## 1. Introduction
 
-Purulia MediGo (“we”, “our”, “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and services.
+Polash Care (“we”, “our”, “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and services.
 
-By using the Purulia MediGo App, you consent to the data practices described in this policy.
+By using the Polash Care App, you consent to the data practices described in this policy.
 
 ---
 
@@ -287,7 +287,7 @@ In case of merger or acquisition, user data may be transferred with appropriate 
 ## Important Disclaimers
 
 **Medical Disclaimer**  
-Purulia MediGo is a technology platform and does not provide medical advice or guarantee outcomes.
+Polash Care is a technology platform and does not provide medical advice or guarantee outcomes.
 
 **Security Disclaimer**  
 No system is completely secure; we continuously improve safeguards and monitor threats.
@@ -311,4 +311,4 @@ For privacy-related queries:
 
 ---
 
-**Purulia MediGo — Committed to Your Privacy**
+**Polash Care — Committed to Your Privacy**
